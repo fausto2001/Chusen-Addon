@@ -1,0 +1,9 @@
+## Interface: 30400
+## Title: Chusen-Addon
+## Notes: OMG my first WoW addon
+## Author: Chusen
+## Version: 0.0.1
+
+Chusen.lua
+Murloc.lua
+QuickMerchant.lua
